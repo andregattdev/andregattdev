@@ -44,7 +44,7 @@ Acredito que as melhores ideias nascem da colaboração. Estou sempre aberto a *
 Seja para uma proposta de trabalho, um projeto inovador ou apenas para trocar uma ideia sobre tecnologia, sinta-se à vontade para me contatar:
 
 <div align="center">
-    <a href="https:/www.linkedin.com/in/andré-gattermeyer-b989251a5" target="_blank">
+    <a href="https:/www.linkedin.com/in/andré-gattermeyer" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     &nbsp; 
