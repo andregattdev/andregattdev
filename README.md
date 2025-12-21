@@ -1,4 +1,4 @@
-# Olá, sou André da Silva Gattermeyer! 
+# Olá, sou André Gattermeyer! 
 
 Desenvolvedor Full Stack apaixonado por criar soluções robustas e escaláveis, com foco em ecossistemas **Angular** e **Spring Boot**.
 
